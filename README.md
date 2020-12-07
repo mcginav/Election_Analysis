@@ -17,13 +17,13 @@ A Colorado Board of Elections employee has given me the following tasks to compl
  The analysis of the election show that:
  - There were 369,111 votes cast in the election.
  - The candidates were:
- Charles Casper Stockholm
- Diana DeGette
- Raymon Anthony Doane
+ Charles Casper Stockholm, 
+ Diana DeGette, 
+ Raymon Anthony Doane, 
  - The candidate results were:
- Charles Casper Stockholm received 23% of the vote and 85,213 number of votes
- Diana DeGette received 73.8% of the vote and 272,892 number of votes
- Raymon Anthony Doane received 3.1% of the vote and 11,606 number of votes
+ -Charles Casper Stockholm received 23% of the vote and 85,213 number of votes
+ -Diana DeGette received 73.8% of the vote and 272,892 number of votes
+ -Raymon Anthony Doane received 3.1% of the vote and 11,606 number of votes
 -The winner of the election was:
 Diana DeGette, who received 73.8% of the vote and 272,892 number of votes
 
@@ -39,15 +39,15 @@ The county with the highest turnout
  The analysis of the election show that:
  - There were 369,111 votes cast in the election.
  - The counties were:
-Apahaoe
-Denver
+-Apahaoe,
+Denver,
 Jefferson
-The voter turnout for each county
-Jefferson: 38,855
-Denver: 306,055
-Arapahoe: 24,801
-The percentage of votes from each county out of the total count
-Jefferson: 10.5% 
-Denver: 82.8% 
-Arapahoe: 6.7% 
-The county with the highest turnout: Denver
+-The voter turnout for each county
+-Jefferson: 38,855
+-Denver: 306,055
+-Arapahoe: 24,801
+-The percentage of votes from each county out of the total count
+-Jefferson: 10.5% 
+-Denver: 82.8% 
+-Arapahoe: 6.7% 
+-The county with the highest turnout: Denver
