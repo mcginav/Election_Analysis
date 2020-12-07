@@ -27,7 +27,7 @@ A Colorado Board of Elections employee has given me the following tasks to compl
   
    Raymon Anthony Doane received 3.1% of the vote and 11,606 number of votes.
    
-   -The winner of the election was:
+   The winner of the election was:
 Diana DeGette, who received 73.8% of the vote and 272,892 number of votes.
 
 ## Challenge Overview
@@ -59,3 +59,5 @@ Denver: 82.8%.
 Arapahoe: 6.7%. 
 
 The county with the highest turnout: Denver
+
+Using this analysis we can determine that out of the three counties, Denver has the highest voter turnout. In order to get more voters to come out we should focus our efforts in Jefferson and Arapahoe counties. We should hold voter registration events in those counties to get people involved. We should find out what voters in those districts are needing from their candidates so that we can address their issues.
