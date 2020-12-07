@@ -28,6 +28,26 @@ A Colorado Board of Elections employee has given me the following tasks to compl
 Diana DeGette, who received 73.8% of the vote and 272,892 number of votes
 
 ## Challenge Overview
+The election commission has requested some additional data to complete the audit:
+
+The voter turnout for each county
+The percentage of votes from each county out of the total count
+The county with the highest turnout
 
 
 ## Challenge Summary
+ The analysis of the election show that:
+ - There were 369,111 votes cast in the election.
+ - The counties were:
+Apahaoe
+Denver
+Jefferson
+The voter turnout for each county
+Jefferson: 38,855
+Denver: 306,055
+Arapahoe: 24,801
+The percentage of votes from each county out of the total count
+Jefferson: 10.5% 
+Denver: 82.8% 
+Arapahoe: 6.7% 
+The county with the highest turnout: Denver
